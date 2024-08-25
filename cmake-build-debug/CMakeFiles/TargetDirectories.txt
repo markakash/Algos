@@ -1,0 +1,3 @@
+C:/Users/sneha/Documents/algoritmen/WordeSearch/cmake-build-debug/CMakeFiles/WordeSearch.dir
+C:/Users/sneha/Documents/algoritmen/WordeSearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sneha/Documents/algoritmen/WordeSearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
